@@ -1,1 +1,4 @@
 venv/
+northwinds_dbt/logs
+northwinds_dbt/target
+northwinds_dbt/dbt_packages
